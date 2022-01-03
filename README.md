@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daman Singh
 - 👀 I’m interested in software engineering, data science and web development
-- 🌱 I’m currently learning Python Game Development
-- 💞️ I’m looking to collaborate on Java and Python projects
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Web Dev and language specific projects (Java or Python)
 
 
 <!---
